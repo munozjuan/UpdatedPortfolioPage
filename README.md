@@ -1,7 +1,7 @@
 # UpdatedPortfolioPage
 # Juan Munoz
 
-![portfolio](/image/pic.png) 
+![portfolio](/images/pic.png) 
 
 
  
